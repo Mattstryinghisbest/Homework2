@@ -1,0 +1,3 @@
+Average Temperature: 24.30
+Average Humidity: 70.00
+Total Precipitation: 50.00
